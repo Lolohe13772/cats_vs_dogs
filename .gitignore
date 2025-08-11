@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pth
+*.zip
+*.tar
+*.tar.gz
+.DS_Store
+.ipynb_checkpoints/
+PetImages/
+data/
+outputs/
+env/
+venv/
+.idea/

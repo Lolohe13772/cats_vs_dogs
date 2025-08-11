@@ -1,0 +1,15 @@
+Accuracy globale: 0.7780
+
+Matrice de confusion:
+[[1245    5]
+ [ 550  700]]
+
+Rapport de classification:
+              precision    recall  f1-score   support
+
+        cats       0.69      1.00      0.82      1250
+        dogs       0.99      0.56      0.72      1250
+
+    accuracy                           0.78      2500
+   macro avg       0.84      0.78      0.77      2500
+weighted avg       0.84      0.78      0.77      2500
